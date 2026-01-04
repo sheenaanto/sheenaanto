@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheena Anto</h1>
+<h1 align="center">Hi, I'm Sheena Anto</h1>
 <h3 align="center">Software developer who is self-motivated and passionate about learning and widening knowledge.</h3>
 
 <h3 align="left">Connect with me:</h3>
